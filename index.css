@@ -1,13 +1,13 @@
 .navbar ul{
     list-style: none;
 }
-/* .navbar li{
+.navbar li{
     float: left;
     padding-left: 5px;
     margin-left: 150px;
 
 }
-span{
+/* span{
     color:red;
     float:left;
     font-weight: bold;
