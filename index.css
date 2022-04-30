@@ -1,0 +1,25 @@
+.navbar ul{
+    list-style: none;
+}
+.navbar li{
+    float: left;
+    padding-left: 5px;
+    margin-left: 150px;
+
+}
+span{
+    color:red;
+    float:left;
+    font-weight: bold;
+}
+#Moringa{
+    margin-left: 10px;
+    padding-right:500px;
+}
+button{
+    background-color:red;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: larger;
+}
