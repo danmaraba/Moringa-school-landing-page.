@@ -92,3 +92,21 @@
     margin-left: 80px;
     padding-top: 400px;
 }
+.laptops img{
+    float:right;
+    margin-right: 500px;
+    height: 400px;
+    width: 600px;
+    margin-top: -100px;
+}
+#Read{
+    background-color: red;
+    color: white;
+    padding: 5px 15px;
+    border-style: none;
+}
+.meeting{
+    margin-left: 100px;
+    margin-bottom:-150px;
+    padding-top: 150px;
+}
