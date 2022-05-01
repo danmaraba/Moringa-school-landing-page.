@@ -12,6 +12,7 @@
     float:left;
     font-weight: bold;
     padding-right: 10px;
+    
 }
 #Moringa{
     margin-left: 10px;
@@ -24,4 +25,31 @@
     font-size: larger;
     padding: 5px 10px;
     margin-top: -50px;
+    border-style: none;
 }
+.Africa > h1{
+    color: red;
+}
+/* .Enroll{
+   padding: 5px 20px; 
+   background-color: red;
+   border-style: none;
+   color: white;
+   opacity: 2.5;
+   font-size: large;
+}
+.Explore{
+    font-size: large;
+    color: red;
+    background-color: white;
+    border-color: red;
+    opacity: 1.5;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 20px;
+}
+.Africa{
+    margin-left: 100px;
+} */
