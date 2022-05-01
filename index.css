@@ -68,6 +68,18 @@
 }
 #Stories{
     background-color: grey;
+    border-style: none;
+    opacity: 1;
+    font-size: large;
+
+}
+#mentor{
+    background-color: grey;
+    border-style: none;
+    opacity: 1;
+    font-size: large;
+    margin-left: 100px;
+    margin-top: 20px;
 }
 .Album{
     float:right;
@@ -109,4 +121,120 @@
     margin-left: 100px;
     margin-bottom:-150px;
     padding-top: 150px;
+}
+.Lorem{
+    float: right;
+    margin-right: 700px;
+    margin-top: -300px;
+}
+.party img{
+    height: 400px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 120px;
+}
+.mentors{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    justify-content: space-around;
+    margin-left: 50px;
+}
+.Rose > img{
+    height: 300px;
+    width: 300px;
+}
+.Albert{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.Albert > img{
+    height: 300px;
+    width: 300px;
+}
+.Raphael > img{
+    height: 300px;
+    width: 300px;
+}
+.Christine{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.Christine > img{
+    height: 300px;
+    width: 300px;
+}
+.mentors h2{
+    color: red;
+    
+}
+.Tech{
+    background-color: red;
+    color:white;
+    border-style: none;
+    padding: 5px 15px;
+}
+.many{
+    padding-left: 5px;
+}
+.Rider{
+    margin-top:  -300px;
+    margin-right: 1200px;
+    height:0.01rem;
+    width: 0.02rem;
+    float:right;
+}
+#proje{
+    background-color: grey;
+    border-style: none;
+    opacity: 1;
+    font-size: large;
+    margin-top: 20px;
+}
+.Project{
+    margin-left: 100px;
+    padding-top: 150px;
+}
+.Bike h1{
+    color: red;
+}
+#Learn{
+    background-color: red;
+    color: white;
+    padding:5px 15px;
+    border-style: none;
+}
+.Sure h2{
+    color: red;
+    font-size: x-large;
+}
+#Enroll{
+    background-color: red;
+    color:white;
+    border-style: none;
+    padding: 5px 15px;
+    font-size: large;
+    padding-right: 10px;
+}
+#Contact{
+    color: red;
+    font-size: large;
+    padding-left:  5px;
+}
+.Sure{
+    margin-left: 100px;
+    margin-top: 600px;
+}
+.Footer{
+    background-color:gainsboro;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-right: 300px;
+    opacity: 6.0px;
+}
+.fa fa-heart{
+    color: red;
+    height: 10px;
+    width: 10px;
 }
