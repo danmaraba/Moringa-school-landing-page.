@@ -50,6 +50,16 @@
     padding-right: 10px;
     margin-left: 20px;
 }
-/* .Africa{
+.Africa{
     margin-left: 100px;
-} */
+}
+.image{
+    float:right;
+    height: 0.01pc;
+    width: 0.01pc;
+    margin-right: 1000px;
+    margin-top: -450px;
+}
+.Nurturing{
+    padding-top: 200px;
+}
