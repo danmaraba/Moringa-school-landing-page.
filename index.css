@@ -67,14 +67,14 @@
     padding-top: 100px;
 }
 #Stories{
-    background-color: grey;
+    background-color:gainsboro;
     border-style: none;
     opacity: 1;
     font-size: large;
 
 }
 #mentor{
-    background-color: grey;
+    background-color:gainsboro;
     border-style: none;
     opacity: 1;
     font-size: large;
@@ -185,7 +185,7 @@
     float:right;
 }
 #proje{
-    background-color: grey;
+    background-color:gainsboro;
     border-style: none;
     opacity: 1;
     font-size: large;
