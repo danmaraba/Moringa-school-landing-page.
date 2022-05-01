@@ -7,10 +7,11 @@
     margin-left: 150px;
 
 }
-span{
+#color{
     color:red;
     float:left;
     font-weight: bold;
+    padding-right: 10px;
 }
 #Moringa{
     margin-left: 10px;
