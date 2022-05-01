@@ -63,3 +63,32 @@
 .Nurturing{
     padding-top: 200px;
 }
+.Stories{
+    padding-top: 100px;
+}
+#Stories{
+    background-color: grey;
+}
+.Album{
+    float:right;
+    margin-right: 700px;
+    margin-top: -400px;
+   
+    
+}
+#See{
+    background-color: red;
+    color: white;
+    padding: 5px 15px;
+    border-style: none;
+
+}
+.Orientation > img{ 
+    height: 400px;
+    width:600px;
+    padding-top: 10px;
+}
+.Orientation{
+    margin-left: 80px;
+    padding-top: 400px;
+}
